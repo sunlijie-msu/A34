@@ -1,2 +1,2 @@
 # A34
-A34 ENSDF
+A=35 Mass Chain Evaluation for Evaluated Nuclear Structure Data File (ENSDF).
