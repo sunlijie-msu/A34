@@ -45,9 +45,10 @@
  34AR7cDP E(level)({+35}K) values deduced from each proton branch. 1999Tr04 used
  34AR8cDP S(p)({+35}K)=78 {I20} from 1993Au07, which causes a small difference  
  34AR9cDP between the original E(level)({+35}K) in 1999Tr04 and the deduced     
- 34ARAcDP E(level)({+35}K) here. E(X),EI(X)$Unresolved proton-emitting levels in
- 34ARBcDP {+35}K corresponding to a group of unresolved protons populating one  
- 34ARCcDP daughter state in {+34}Ar.                                            
+ 34ARAcDP E(level)({+35}K) here.                                                
+ 34AR cDPE(X)$Unresolved protons.                                               
+ 34AR cDPEI(X)$Unresolved proton-emitting levels in {+35}K corresponding to a   
+ 34AR2cDP group of unresolved protons populating one daughter state in {+34}Ar. 
  34AR cDPEI(A)$T=5/2 isobaric analog state in {+35}K, which also decays by      
  34AR2cDP E(2p0){-lab}=4305 {I26}, proton line 8 in 1999Tr04, corresponding to  
  34AR3cDP E({+35}K)=9186 {I27} with S(2p)({+35}K)=4747.5 {I6} (2021Wa16) and    
@@ -69,8 +70,11 @@
  35CA cP QP$Deduced by evaluators from mass excesses of 4777 {I105} for {+35}Ca 
  35CA2cP measured by 2023La09 and -18378.289 {I80} for {+34}Ar from 2021Wa16.   
  35CA3cP Q(|ep) from 2021Wa16: Q(|ep)=16280 {I200} (syst)                       
- 34AR  N                       0.957   14              1.0                      
- 34AR cN BR$%|ep=95.7 {I14} (1999Tr04)                                          
+ 34AR  N                       0.958   3               0.994          
+ 34AR cN BR$%|ep=95.8 {I3} from renormalization of %|SI{-1p}=96.4 {I18} and     
+ 34AR2cN %|SI{-2p}=4.2 {I3} in 1999Tr04, assuming %|SI{-1p}+%|SI{-2p}=100.      
+ 34AR cN NP$from renormalization of %|SI{-1p}+%|SI{-2p}=100.6 in 1999Tr04 to    
+ 34AR2cN 100.                                                                   
  34AR  L  0           0+                                                        
  34AR  DP 1427      5 48.5   13 1553                                            
  34AR  DP 3592     25 3.0     3 3781                                            
