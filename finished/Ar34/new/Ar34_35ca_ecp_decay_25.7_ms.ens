@@ -63,17 +63,19 @@
  34ARCcDP keV, corresponding to an intermediate state in {+34}Ar at 6807 keV.   
  34ARDcDP 2p1 has been ruled out in 1999Tr04 due to the nonobservation of       
  34AREcDP expected p|g coincidences. 1999Tr04 also states that the observed     
- 34ARFcDP ratio I(2p0)/I(p)=0.98 {I9} agrees with the calculated branching ratio
- 34ARGcDP I(2p)/I(p)=1 for the IAS (1991De26).                                  
+ 34ARFcDP ratio I(2p0)/I(1p)=0.98 {I9} agrees with the calculated branching     
+ 34ARGcDP ratio I(2p)/I(1p)=1 for the IAS (1991De26).                           
  35CA  P 0            1/2+             25.7 MS   2              1.587E4   11    
  35CA cP J,T$From the Adopted Levels of {+35}Ca.                                
  35CA cP QP$Deduced by evaluators from mass excesses of 4777 {I105} for {+35}Ca 
  35CA2cP measured by 2023La09 and -18378.289 {I80} for {+34}Ar from 2021Wa16.   
  35CA3cP Q(|ep) from 2021Wa16: Q(|ep)=16280 {I200} (syst)                       
  34AR  N                       0.958   3               0.994          
- 34AR cN BR$%|ep=95.8 {I3} from renormalization of %|SI{-1p}=96.4 {I18} and     
- 34AR2cN %|SI{-2p}=4.2 {I3} in 1999Tr04, assuming %|SI{-1p}+%|SI{-2p}=100.      
- 34AR cN NP$from renormalization of %|SI{-1p}+%|SI{-2p}=100.6 in 1999Tr04 to    
+ 34AR cN BR$95.8 {I3} derived from the renormalization of                       
+ 34AR2cN %|SI(1p)+%|SI(2p)=100.6 in 1999Tr04 to 100. The original decay         
+ 34AR3cN branching ratios in 1999Tr04: %|SI(1p)=96.4 {I18} and %|SI(2p)=4.2     
+ 34AR4cN {I3}.                                                                  
+ 34AR cN NP$from the renormalization of %|SI(1p)+%|SI(2p)=100.6 in 1999Tr04 to  
  34AR2cN 100.                                                                   
  34AR  L  0           0+                                                        
  34AR  DP 1427      5 48.5   13 1553                                            
